@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "signed.backbones"]
+	path = signed.backbones
+	url = https://github.com/cran/signed.backbones
+	shallow = true
+	registered = true
